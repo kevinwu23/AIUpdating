@@ -21,6 +21,7 @@ While the pace of development of AI has rapidly progressed in recent years, the 
 ## Contents
 - `analysis.ipynb`: The main figures can be run through this notebook.
 - `fda_ai_devices_2023.csv`: Our table of medical devices that have been classified by the FDA as AI.
+- 
 | **Column**             | **Description**                                                                                             |
 |------------------------|-------------------------------------------------------------------------------------------------------------|
 | Date of Final Decision | The date when the final decision was made regarding the approval of the AI medical device.                  |
@@ -28,7 +29,8 @@ While the pace of development of AI has rapidly progressed in recent years, the 
 | Device                 | The name of the AI medical device submitted for approval.                                                   |
 | Company                | The name of the company that developed and submitted the AI medical device for approval.                    |
 | Panel (Lead)           | The FDA panel responsible for reviewing and approving the medical device.                                   |
-| Primary Product Code   | The primary product code assigned to the device, indicating its category and intended use. 
+| Primary Product Code   | The primary product code assigned to the device, indicating its category and intended use.                  |
+
 - `update_annotations_2023.csv`:
 
 | **Column**              | **Description**                                                                                         |
