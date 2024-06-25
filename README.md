@@ -4,6 +4,10 @@
 
 This repository contains the data and code used for the analysis presented in the paper "Regulating AI Adaptation: An Analysis of AI Medical Device Updates". The paper was presented at the Conference on Health, Inference, and Learning (CHIL) 2024.
 
+<div style="text-align: center;">
+  <img src="main_figure.png" alt="Description of types of updating and frequencies in FDA approved AI devices" width="600"/>
+</div>
+
 ### Authors
 - Kevin Wu, Stanford University, USA (kevinywu@stanford.edu)
 - Eric Wu, Stanford University, USA (wue@stanford.edu)
